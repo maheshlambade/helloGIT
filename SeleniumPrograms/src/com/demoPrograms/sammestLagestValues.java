@@ -22,7 +22,7 @@ public class sammestLagestValues {
 			}
 		}
 		System.out.println("largest num :"+largest);
-		System.out.println("Smallest num :"+smallest);
+		System.out.println("Smallest num :"+smallest);  
 	}
 
 }
