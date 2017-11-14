@@ -4,7 +4,7 @@ public class sammestLagestValues {
 
 	public static void main(String[] args)
 	{
-	
+	  // this is git
 		int num[] =new int[]{12,15,22,66,55,89,99};
 		int largest=num[0];
 		int smallest=num[0];
