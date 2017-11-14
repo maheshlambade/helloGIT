@@ -15,6 +15,7 @@ public class WebElements {
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://google.com");
 		
+		// must use xpath
 		List<WebElement>elements=driver.findElements(By.xpath("//*"));
 		System.out.println(Integer.toString(elements.size()));
 		
